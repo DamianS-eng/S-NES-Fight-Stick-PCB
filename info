@@ -1,0 +1,87 @@
+{
+  "uuid": "cca4a4a9afbb8fad12556eb5f82f8ee8",
+  "path": "Offline/SNES%20Fight",
+  "name": "SNES Fight",
+  "content": "",
+  "created_at": "2023-01-30 16:14:28",
+  "updated_at": "2023-01-30 16:14:28",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "88caced2a3de8e135352e871e256100f",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "12f4dc83c2b14e97a7af39cff332cfa4": 2,
+        "d598b41872bc466db7627ca30d022a82": 4,
+        "06c807e5e5474daf8a1a5a8843f845f0": 16
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "CD4021BE",
+          2,
+          "DIP-16_16P-L20.2-W6.6-P2.54-LS7.6-BL",
+          "NES,SUPER",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TI(德州仪器)",
+            "BOM_Manufacturer Part": "CD4021BE",
+            "BOM_Supplier Part": "C139390",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "a8834d810e384ae1bfe2643c5db26b52",
+            "uuid": "12f4dc83c2b14e97a7af39cff332cfa4"
+          }
+        ],
+        [
+          "-",
+          16,
+          "RES-TH_BD4.0-L11.5-P15.50-D0.7",
+          "R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C306261",
+            "BOM_Manufacturer": "TE Connectivity(美国泰科)",
+            "BOM_Manufacturer Part": "1623925-3",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8523e7b14fb448438704de66b9e3b7b9",
+            "uuid": "06c807e5e5474daf8a1a5a8843f845f0"
+          }
+        ],
+        [
+          "4 pin 5mm pitch terminal block",
+          4,
+          "TERMINAL-BLOCK-4-PIN-3.5MM-ROUND-PAD",
+          "U1,U2,U3,U4",
+          {
+            "BOM_Manufacturer": "Phoenix Contact",
+            "BOM_Manufacturer Part": "1935187",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "277-1579-ND",
+            "puuid": "be4e8d1e71124a0a8ba045272761f284",
+            "uuid": "d598b41872bc466db7627ca30d022a82"
+          }
+        ]
+      ],
+      "updateTime": 1675113268,
+      "createTime": 1675113268,
+      "histories": [],
+      "created_at": "2023-01-30 16:14:28",
+      "updated_at": "2023-01-30 16:14:28"
+    }
+  ],
+  "sort": [],
+  "title": "SNES Fight",
+  "foldername": "SNES Fight",
+  "schfilename": "SNES Fight.json",
+  "schfilemtime": 1675113268538
+}
